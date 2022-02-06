@@ -2,7 +2,7 @@ class ListaContas{
     constructor(){
         this._contas = []
     }
-    adiciona(conta){
+    adicionar(conta){
         this._contas.push(conta)
     }
     get contas(){
