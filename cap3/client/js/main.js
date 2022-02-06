@@ -1,4 +1,7 @@
-// https://cursos.alura.com.br/course/javascript-es6-orientacao-a-objetos-parte-1/task/16492
+
+/*** // https://cursos.alura.com.br/course/javascript-es6-orientacao-a-objetos-parte-1/task/16492
+ * melhor parte que eu achei
+ */
 var campos = [
     document.querySelector('#data'),
     document.querySelector('#quantidade'),
