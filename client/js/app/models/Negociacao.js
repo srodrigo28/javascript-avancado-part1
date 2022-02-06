@@ -9,6 +9,4 @@ class Negociacao{
     get data(){ return new Date(this._data.getTime()) }
     get quantidade(){ return this._quantidade }
     get valor(){ return this._valor }
-    
-    
 }
